@@ -1,0 +1,4 @@
+https://access.redhat.com/documentation/en-US/OpenShift_Online/2.0/html/User_Guide/Accessing_an_Application1.html
+ssh -L 8084:127.12.76.2:5432 540daa55653e8a85eb000001@broker.smile.ci
+
+
