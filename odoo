@@ -1,0 +1,10 @@
+- installer passlib (sur la vm)
+       source python/virtenv/bin/activate
+       pip install passlib
+   - installer les requirements.txt de odoo (sur la vm)
+      https://raw.githubusercontent.com/odoo/odoo/8.0/requirements.txt à  ajouter dans le fichier app-root/runtime/repo/requirements.txt
+       pip install -r requirements.txt 
+   - utiliser l'url de database management
+       http://url/web/database/manager
+   et cliquer sur create.
+   
